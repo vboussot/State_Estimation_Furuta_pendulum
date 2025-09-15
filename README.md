@@ -1,5 +1,7 @@
 # 🎛️ Furuta’s Pendulum – State Estimation and Control
 
+📍 Master project completed at **CentraleSupélec** under the supervision of **Stanislav Aranovskiy**.  
+
 This repository contains the full code, simulations, and report of my **Master project** on the **Furuta’s pendulum**.  
 The focus is on **state estimation under sensor limitations** and the comparison of different observer and control strategies.
 
